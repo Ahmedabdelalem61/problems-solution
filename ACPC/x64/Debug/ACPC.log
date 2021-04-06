@@ -1,0 +1,15 @@
+﻿  ACPC.cpp
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(12,27): error C2131: expression did not evaluate to a constant
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(12,27): message : failure was caused by a read of a variable outside its lifetime
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(12,27): message : see usage of 'n'
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(16,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(21,9): error C2672: 'std::sort': no matching overloaded function found
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(21,50): error C2780: 'void std::sort(const _RanIt,const _RanIt)': expects 2 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(3510): message : see declaration of 'std::sort'
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(21,50): error C2780: 'void std::sort(const _RanIt,const _RanIt,_Pr)': expects 3 arguments - 1 provided
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\algorithm(3502): message : see declaration of 'std::sort'
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(33,15): error C2131: expression did not evaluate to a constant
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(33,15): message : failure was caused by a read of a variable outside its lifetime
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(33,15): message : see usage of 'n'
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(36,13): warning C4552: '>>': result of expression not used
+D:\c++ projects\ACPC\ACPC\ACPC.cpp(42,24): warning C4552: '<<': result of expression not used

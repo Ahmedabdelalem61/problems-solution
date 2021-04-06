@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609775760 source:e:\c++ projects\acpc\acpc\main.cpp
+	<iostream>
+	<map>
+
