@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626104183 source:e:\acpc training 1-3 nd year\meeting friends\main.cpp
+	<iostream>
+	<cmath>
+	<algorithm>
+

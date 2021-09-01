@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619882960 source:e:\acpc training 1-3 nd year\c. wounderfull number\main.cpp
+	<iostream>
+	<vector>
+	<bits/stdc++.h>
+

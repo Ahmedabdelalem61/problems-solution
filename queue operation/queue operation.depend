@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627648499 source:e:\acpc training 1-3 nd year\queue operation\main.cpp
+	<iostream>
+	<queue>
+	<sstream>
+

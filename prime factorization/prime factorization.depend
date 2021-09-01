@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625542041 source:e:\acpc training 1-3 nd year\prime factorization\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

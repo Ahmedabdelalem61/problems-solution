@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1627053096 source:e:\acpc training 1-3 nd year\contest a\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

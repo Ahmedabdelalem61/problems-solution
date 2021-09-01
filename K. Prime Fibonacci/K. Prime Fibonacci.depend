@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626126809 source:e:\acpc training 1-3 nd year\k. prime fibonacci\main.cpp
+	<iostream>
+	<cmath>
+	<bits/stdc++.h>
+

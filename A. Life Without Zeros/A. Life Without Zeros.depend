@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629830035 source:e:\acpc training 1-3 nd year\a. life without zeros\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<vector>
+
