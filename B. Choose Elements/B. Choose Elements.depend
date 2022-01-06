@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640990532 source:/home/lemo/Desktop/c++ solutions/B. Choose Elements/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

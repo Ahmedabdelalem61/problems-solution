@@ -1,17 +1,17 @@
 #include <iostream>
 
 using namespace std;
-int gcd(int a, int b)
+long long gcd(long long a, long long b)
  {
    return b == 0 ? a : gcd(b, a % b);
 }
-int lcm(int a, int b)
+long long lcm(long long a, long long b)
 {
    return a * (b / gcd(a, b));
 }
 int main()
 {
-    int a,b;
+    long long a,b;
     cin>>a>>b;
     cout <<gcd(a,b)<<" "<<lcm(a,b);
     return 0;

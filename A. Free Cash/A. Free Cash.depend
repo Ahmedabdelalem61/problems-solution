@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640142014 source:/home/lemo/Desktop/c++ solutions/A. Free Cash/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

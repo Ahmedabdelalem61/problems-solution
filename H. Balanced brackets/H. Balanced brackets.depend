@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641209188 source:/home/lemo/Desktop/c++ solutions/H. Balanced brackets/main.cpp
+	<iostream>
+	<stack>
+	<map>
+

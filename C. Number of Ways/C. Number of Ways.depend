@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640995305 source:/home/lemo/Desktop/c++ solutions/C. Number of Ways/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

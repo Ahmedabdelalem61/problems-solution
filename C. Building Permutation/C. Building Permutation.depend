@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640235148 source:/home/lemo/Desktop/c++ solutions/C. Building Permutation/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

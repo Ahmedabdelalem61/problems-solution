@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640514689 source:/home/lemo/Desktop/c++ solutions/B. Polo the Penguin and Matrix/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641298046 source:/home/lemo/Desktop/c++ solutions/A. Yaroslav and Permutations/main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
