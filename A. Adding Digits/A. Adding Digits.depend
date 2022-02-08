@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642577918 source:/home/lemo/Desktop/problems-solution/A. Adding Digits/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+

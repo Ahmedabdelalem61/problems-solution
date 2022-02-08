@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642133750 source:/home/lemo/Desktop/problems-solution/B. Sort the Array/main.cpp
+	<iostream>
+	<algorithm>
+
