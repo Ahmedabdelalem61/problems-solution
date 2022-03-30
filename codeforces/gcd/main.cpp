@@ -13,6 +13,7 @@ int main()
 {
     long long a,b;
     cin>>a>>b;
-    cout <<gcd(a,b)<<" "<<lcm(a,b);
+    cout <<gcd(a,b);
+    //<<" "<<lcm(a,b);
     return 0;
 }
